@@ -3,6 +3,6 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "KEY_VAULT_NAME":<YOUR-KEY-VAULT>,
+    "KEY_VAULT_NAME":chatbotstage6,
   }
 }
